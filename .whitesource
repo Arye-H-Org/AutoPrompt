@@ -2,7 +2,12 @@
   "settingsInheritedFrom": "Arye-H-Org/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
-  }
+  },
+  "scanSettingsSAST": {
+    "enableScan": true,
+    "scanPullRequests": true,
+    "incrementalScan": true,
+    "baseBranches": [],
+    "snippetSize": 10
+  },
 }
-
-
