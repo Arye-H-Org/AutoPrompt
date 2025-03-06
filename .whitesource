@@ -9,5 +9,5 @@
     "incrementalScan": true,
     "baseBranches": [],
     "snippetSize": 10
-  },
+  }
 }
